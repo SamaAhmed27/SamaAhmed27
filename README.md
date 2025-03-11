@@ -8,17 +8,17 @@
 
 ### 🌟 About Me
 - 💡 Working on a **Physiotherapy Rehabilitation Arm** using a cable-driven motor mechanism and VR game integration.
-- 🤖 Interested in **Embedded Systems**, **ROS**, and **Machine Learning**.
+- 🤖 Interested in **Embedded Systems**, **Robotics**, and **Machine Learning**.
 - 🔧 Built various **C and C++ projects** in Embedded Systems, including UART, I2C, and sensor drivers.
 - 📊 Developing **ML-powered data analysis applications** and interactive **Streamlit apps**.
-- 🌍 Former intern at **Baker Hughes (Wireline Engineering) & Hill-EHAF (Grand Egyptian Museum Digital Systems)**.
-- 🏆 Recently participated in my **first MUN conference**, representing China in OHCHR!
+- 🌍 Former intern at **Baker Hughes (Wireline Engineering), Schneider Electric (IM & Mechanical Design Intern) & Hill-EHAF (Grand Egyptian Museum Digital Systems)**.
+- 🏆 Recently participated in my an **MUN conference**, representing China in OHCHR!
 - 🔥 Always up for new challenges in **robotics, automation, and real-world problem-solving**.
 
 ---
 
 ### 🔨 Projects & Work
-- 🦾 [Graduation Project: Physiotherapy Rehabilitation Arm](#)
+- 🦾 **Graduation Project: Physiotherapy Rehabilitation Arm**
 - 🏡 **Smart Home Automation** (PWM, Proteus, ATmega32)
 - 🏎 **Automotive Operations (Rise Graduate Program)**
 - 🤖 **ROS-based TurtleBot3 Control (ESP32, MPU6050, Python)**
