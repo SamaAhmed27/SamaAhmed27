@@ -36,10 +36,5 @@
 
 ---
 
-### 📫 Let's Connect!
-- 💼 (linkedin.com/in/sama-abdelaal/)
-- 📧 [Email](samaabdelaal275@gmail.com)  
-- 🌎 [Portfolio (Coming Soon)](#)  
-
 🚀 *Always open to collaborations and innovative discussions!*
 
