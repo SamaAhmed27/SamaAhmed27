@@ -20,7 +20,6 @@
 ### 🔨 Projects & Work
 - 🦾 **Graduation Project: Physiotherapy Rehabilitation Arm**
 - 🏡 **Smart Home Automation** (PWM, Proteus, ATmega32)
-- 🏎 **Automotive Operations (Rise Graduate Program)**
 - 🤖 **ROS-based TurtleBot3 Control (ESP32, MPU6050, Python)**
 - 📊 **Play Store Data Analysis (ML, Pandas, Visualization)**
 - 🖥 **Hand Gesture Recognition (Sign Language to Text Translation)**
