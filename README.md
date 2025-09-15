@@ -7,7 +7,7 @@
 ---
 
 ### 🌟 About Me
-- 💡 Working on a **Physiotherapy Rehabilitation Arm** using a cable-driven motor mechanism and VR game integration.
+- 💡 Worked on a **Physiotherapy Rehabilitation Arm** using a cable-driven motor mechanism and VR game integration for my graduation project.
 - 🤖 Interested in **Embedded Systems**, **Robotics**, and **Machine Learning**.
 - 🔧 Built various **C and C++ projects** in Embedded Systems, including UART, I2C, and sensor drivers.
 - 📊 Developing **ML-powered data analysis applications** and interactive **Streamlit apps**.
