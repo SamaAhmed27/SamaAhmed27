@@ -1,7 +1,7 @@
 ### Hi there, I'm Sama Ahmed! 👋
 
 🚀 **Mechatronics Engineer | Embedded Systems | Machine Learning Enthusiast**  
-🎓 Senior Mechatronics Engineering Student at Cairo University  
+🎓 Junior Mechatronics Engineer - Cairo University Graduate
 📌 Passionate about building innovative tech solutions that benefit people, the environment, and the market  
 
 ---
